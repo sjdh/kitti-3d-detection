@@ -1,0 +1,5 @@
+DataConfig:
+        image_dir: '/home/ubuntu/data/kitti_object/training/image_2/'
+        label_dir: '/home/ubuntu/data/kitti_object/training/label_2/'
+        calibration_dir: '/home/ubuntu/data/kitti_object/training/calib/'
+      
