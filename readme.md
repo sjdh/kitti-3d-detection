@@ -5,4 +5,6 @@ This repository contains code and notebooks to explore the data.
 
 ## Notebooks
 
-1. Exploring kitti 3d - 2d boundary boxes [notebook](1.%20exploring%20kitti%203d%20-%202d%20boundary%20boxes%20.ipynb)
+**Exploring the KITTI 3D object detection data set**
+
+1. From directory structure to 2D bounding boxes [notebook](./notebooks/1%20From directory%20structure%20to%202D%20bounding%20boxes.ipynb)
